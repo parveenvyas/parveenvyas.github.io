@@ -4,5 +4,4 @@
 |-----|--------------|----------------|
 |15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
 |Date|Speaker's name| Speaker's teaching|
-|-----|------------|-------------|
 |15-07-2024|Mr. sony Goyal|Mr.goyal tells about the importance of life|
