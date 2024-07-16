@@ -2,6 +2,8 @@
 ## Activity report of induction program 2024
 | Date|Speaker's name|Speaker's teaching|
 |-----|--------------|----------------|
+|11-07-2024|Dr.Arvind dhingra|
+|11-07-2024|SSP Dr. Parminder Singh|
 |12-07-2024|Peer Interaction Canva|How to make Flyers|
 |12-07-2024|Neeraj kumar Maths teacher|Derivative
 |15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
