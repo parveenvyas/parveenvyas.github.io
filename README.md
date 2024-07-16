@@ -2,7 +2,7 @@
 ## Activity report of induction program 2024
 | Date|Speaker's name|Speaker's teaching|
 |-----|--------------|----------------|
-|10-07-2024|Jiwandeep Singh|
+|10-07-2024|Jiwandeep Singh|Identify your Passion, see long content|
 |10-07-2024|SSP Rajeshwar Singh|
 |11-07-2024|Dr.Arvind dhingra|Told us about different national and department level clubs
 |11-07-2024| Dr. Parminder Singh|Told us about the college|
