@@ -12,3 +12,5 @@
 |15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
 |15-07-2024|Mr. sony Goyal|Mr.goyal tells about the importance of life|
 |15-07-2024|Mr. Pancham|told us about the non-verbal communication and motorsportclub SAE
+|16-07-2024|         |English quiz |
+|16-07-2024|         |English Quiz|
