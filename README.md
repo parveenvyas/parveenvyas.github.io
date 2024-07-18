@@ -12,5 +12,9 @@
 |15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
 |15-07-2024|Mr. sony Goyal|Mr.goyal tells about the importance of life|
 |15-07-2024|Mr. Pancham|told us about the non-verbal communication and motorsportclub SAE
-|16-07-2024|         |English quiz |
+|16-07-2024|Nisha masson|English quiz |
 |16-07-2024|         |English Quiz|
+|17-07-2024| Sukhminder Singh| Math Integration
+17-07-2024| Nisha Masson|UHV 
+17-07-2024|           | English test
+18-07-2024
