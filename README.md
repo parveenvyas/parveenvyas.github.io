@@ -2,8 +2,8 @@ as.github.io
 ## Activity report of induction program 2024
 | Date|Speaker's name|Speaker's teaching|
 |-----|--------------|----------------|
-|10-07-2024|Jiwandeep Singh|Identify your Passion, see long content|
-|10-07-2024|SSP Rajeshwar Singh|
+|10-07-2024|Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
+|10-07-2024|SSP Rajeshwar Singh|Nature is always assessing my action, As we sow ,so shall you reap
 |11-07-2024|Dr.Arvind dhingra|Told us about different national and department level clubs
 |11-07-2024| Dr. Parminder Singh|Told us about the college|
 |11-07-2024|Dr. H. S. Rai|told us about coding
@@ -20,5 +20,6 @@ as.github.io
 18-07-2024|Senior 2nd year student|Peer Interaction about college
 18-07-2024|Dr. Harwinder Singh|Introduction about NCC
 18-07-2024|Er. Jaswir Singh Grewal| Introduction about NSS, Benefits
-19-07-2024| Er. kanwardeep kalra|about Soft skills
+19-07-2024| Er. kanwardeep kalra|importance of Soft skills for interview
 19-07-2024| Jaswinder Singh|Importance of mathematics in our life
+19-07-2024| |Departmental visit
