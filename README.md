@@ -19,8 +19,7 @@
 |17-07-2024|Prof.Nisha Masson|Introduction to Value Education
 |18-07-2024|Prof. Nisha Masson|Understanding in Harmony in Human being
 |18-07-2024|Senior 2nd year student|They told us about the college website 
-|18-07-2024|Dr. Harwinder Singh|Sir give Introduction about NCC, Benefits of Joining NCC
-How to Join NCC
+|18-07-2024|Dr. Harwinder Singh|Sir give Introduction about NCC, Benefits of Joining NCC How to Join NCC
 |18-07-2024|Er. Jaswir Singh Grewal|Sir give the brief introduction of NSS, about the benefits of NSS, and promote us to join NSS
 |19-07-2024| Er. kanwardeep kalra|importance of Soft skills for interview
 |19-07-2024| Jaswinder Singh|Importance of mathematics in our life
