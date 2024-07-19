@@ -1,4 +1,4 @@
-# parveenvyas.github.io
+as.github.io
 ## Activity report of induction program 2024
 | Date|Speaker's name|Speaker's teaching|
 |-----|--------------|----------------|
@@ -16,9 +16,8 @@
 |16-07-2024|         |English Quiz about Jumble words,personality ,and many more
 |17-07-2024|Associate Prof. Sukhminder Singh| Maths Integration
 17-07-2024|Prof.Nisha Masson|UHV 
-17-07-2024|Prof.Nisha Masson| English test
-18-07-2024|Prof.Nisha Masson|value education
-18-07-2024|            |Peer Interaction about college
+18-07-2024|Prof. Nisha Masson|Understanding harmony in family
+18-07-2024|Senior 2nd year student|Peer Interaction about college
 18-07-2024|Dr. Harwinder Singh|Introduction about NCC
 18-07-2024|Er. Jaswir Singh Grewal| Introduction about NSS, Benefits
 19-07-2024| Er. kanwardeep kalra|about Soft skills
