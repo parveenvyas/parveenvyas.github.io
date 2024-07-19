@@ -1,5 +1,5 @@
 as.github.io
-[alt text](image.jpg)
+[alt text](image.jpg)![1721395839149.png](https://github.com/user-attachments/assets/f96c7c88-f27a-4402-868a-80d0923c4dd7)
 ## Activity report of induction program 2024
 | Date|Speaker's name|Speaker's teaching|
 |-----|--------------|----------------|
