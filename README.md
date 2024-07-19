@@ -1,4 +1,5 @@
 as.github.io
+[alt text](image.jpg)
 ## Activity report of induction program 2024
 | Date|Speaker's name|Speaker's teaching|
 |-----|--------------|----------------|
