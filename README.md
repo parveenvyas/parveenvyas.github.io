@@ -21,5 +21,5 @@
 18-07-2024|            |Peer Interaction about college
 18-07-2024|Dr. Harwinder Singh|Introduction about NCC
 18-07-2024|Er. Jaswir Singh Grewal| Introduction about NSS, Benefits
-19-07-2024| Er. kanwardeep kalra|Corporate to Success
+19-07-2024| Er. kanwardeep kalra|about Soft skills
 19-07-2024| Jaswinder Singh|Importance of mathematics in our life
