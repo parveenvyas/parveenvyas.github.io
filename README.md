@@ -5,9 +5,9 @@
 |-----|--------------|----------------|
 |10-07-2024|Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
 |10-07-2024|SSP Rajeshwar Singh|Nature is always assessing my action, As we sow ,so shall you reap
-|11-07-2024|Dr.Arvind dhingra|He talked about different national and department level clubs
+|11-07-2024|Dr.Arvind dhingra|He talked about different types of memberships and different national and department level clubs
 |11-07-2024| Dr. Parminder Singh|He gave us knowledge about college that College has 4  hostels,3canteens,Stationary,Dispensary,different Scholarship andmany more|
-|11-07-2024|Dr. H. S. Rai| about coding. Do coding for developing non-coding platform
+|11-07-2024|Dr. H. S. Rai|He taled about about coding. Do coding for developing non-coding platform
 |12-07-2024|Peer Interaction Canva|How to make Flyers using Canva|
 |12-07-2024|Associate Prof. Neeraj kumar |Derivative
 |15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
