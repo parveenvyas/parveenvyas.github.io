@@ -12,10 +12,10 @@
 |12-07-2024|Associate Prof. Neeraj kumar |Derivative
 |15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
 |15-07-2024|Mr. Sony Goyal|He gave us lesson to  give your 100℅ efforts. He also relates the 4 years of Btech with LIFE form which is
-L-learn
+|||L-learn
 I-inquire
 F-future
-E-explore
+E-explore|
 |15-07-2024|Mr. Pancham|He talked about the non-verbal communication how to judge a person from his pose and motorsportclub SAE
 |16-07-2024|Prof.Nisha masson|English quiz about Vocabulary, |
 |16-07-2024|         |English Quiz about Jumble words,personality ,and many more
