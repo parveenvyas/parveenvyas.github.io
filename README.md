@@ -1,6 +1,5 @@
 ![Activity Report of Induction program_20240720_131658_0000.png](https://github.com/user-attachments/assets/4d6b7246-6dcd-4aa1-a2ed-e167aafd62c1)
 
-# Activity Report of Induction Program 2024
 | Date|Speaker's name|Description|
 |-----|--------------|----------------|
 |10-07-2024|Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
