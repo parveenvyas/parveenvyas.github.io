@@ -27,5 +27,5 @@
 |19-07-2024| Er. kanwardeep kalra|She gave us knowledge about importance of essential Soft skills with hard skills for the corporate world 
 |19-07-2024|Dr.Jaswinder Singh|He gave us knowledge about mathematics and science. He said that nothing is possible without mathematics. 
 |19-07-2024|Dr.Manpreet kaur Mand|Mam tell us about Department labs, faculty, Clubs, Examination structure
-|19-07-2024|Dr. Sita Rani||
-
+|19-07-2024|Dr. Sita Rani|Mam gave us detailed description of Department club CSI(Computer Society of India)and many more
+|19-07-2024|DR. INDERJIT SINGH DHANOA| Sir said about the Department Data science club, how to join the club
