@@ -1,5 +1,5 @@
+![Activity Report of Induction program_20240720_131658_0000.png](https://github.com/user-attachments/assets/4d6b7246-6dcd-4aa1-a2ed-e167aafd62c1)
 
-![1721395839149.png](https://github.com/user-attachments/assets/f96c7c88-f27a-4402-868a-80d0923c4dd7)
 # Activity Report of Induction Program 2024
 | Date|Speaker's name|Description|
 |-----|--------------|----------------|
