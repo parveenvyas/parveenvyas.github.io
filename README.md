@@ -22,13 +22,14 @@
 |17-07-2024|Prof.Nisha Masson|Introduction to Value Education
 |18-07-2024|Prof. Nisha Masson|Understanding in Harmony in Human being
 |18-07-2024|Senior 2nd year student|They told us about the college website 
-|18-07-2024|Dr. Harwinder Singh|Sir give Introduction about NCC, Benefits of Joining NCC How to Join NCC and how many vacancies are there in NCC
+|18-07-2024|Dr. Harwinder Singh|Sir give Introduction about NCC, Benefits of Joining NCC How to Join NCC and how many vacancies are there in N
 |18-07-2024|Er. Jaswir Singh Grewal|Sir give the brief introduction of NSS, about how it is useful for the students  and promote us to join NSS
 |19-07-2024| Er. kanwardeep kalra|She gave us knowledge about importance of essential Soft skills with hard skills for the corporate world 
 |19-07-2024|Dr.Jaswinder Singh|He gave us knowledge about mathematics and science. He said that nothing is possible without mathematics. 
 |19-07-2024|Dr.Manpreet kaur Mand|Mam tell us about Department labs, faculty, Clubs, Examination structure
 |19-07-2024|Dr. Sita Rani|Mam gave us detailed description of Department club CSI(Computer Society of India)and many more
 |19-07-2024|DR. INDERJIT SINGH DHANOA| Sir said about the Department Data science club, how to join the club
-|22-07-2024|Dr. Satbir Singh| 
+|22-07-2024|Dr. Satbir Singh|He firstly said that he is student.They told us to take a page and then write your name fathers name mothers name and then mobile no. 
 |22-07-2024|Dr. Pushpinder singh| He said that identify your learning style because there are three types of learning style Surface, Strategic and deep learning. become deaf and dumb for negativity, always learn from nature, 
 |22-07-2024| Senior Diljeet singh|He shares his experience with us. Not to do mistakes what he do. 
+
