@@ -30,6 +30,5 @@
 |19-07-2024|Dr. Sita Rani|Mam gave us detailed description of Department club CSI(Computer Society of India)and many more
 |19-07-2024|DR. INDERJIT SINGH DHANOA| Sir said about the Department Data science club, how to join the club
 |22-07-2024|Dr. Satbir Singh| 
-|22-07-2024|Dr. Pushpinder singh| He said that identify your learning style because there are three types of learning style Surface, Strategic and deep learning. become deaf and dumb for negativity, 
-always learn from nature, 
+|22-07-2024|Dr. Pushpinder singh| He said that identify your learning style because there are three types of learning style Surface, Strategic and deep learning. become deaf and dumb for negativity, always learn from nature, 
 |22-07-2024| Senior Diljeet singh|He shares his experience with us. Not to do mistakes what he do. 
