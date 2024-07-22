@@ -1,4 +1,5 @@
-![Activity Report of Induction program_20240720_131658_0000.png](https://github.com/user-attachments/assets/4d6b7246-6dcd-4aa1-a2ed-e167aafd62c1)
+Activity Report of Induction program_20240722_131427_0000](https://github.com/user-attachments/assets/ee405517-76d9-4484-a608-c04a9cabf569)
+
 
 | Date|Speaker's name|Description|
 |-----|--------------|----------------|
