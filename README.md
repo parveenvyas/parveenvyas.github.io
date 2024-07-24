@@ -36,4 +36,4 @@ Activity Report of Induction program_20240722_131427_0000](https://github.com/us
 |23-07-2024| Prof.Rishi Kapoor| Sir taught us the UHV chapter introduction to value education, Harmony in family
 |23-07-2024| Prof. Manjot kaur| Mam 
 |24-07-2024| Mr. Gauravdeep Singh| Sir shares his own life experience, what efforts he made to achieve this height of success. In what trouble he had to go for He motivate us to don't lose your hope. 
-|24-07-2024| 
+|24-07-2024| Er. Lakhveer Singh| 
