@@ -1,10 +1,11 @@
 ![Activity Report of Induction program_20240722_131427_0000](https://github.com/user-attachments/assets/ee405517-76d9-4484-a608-c04a9cabf569)
 
 **Day 1**
-| Date|Speaker's name|Description|
-|-----|--------------|----------------|
-|10-07-2024|Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
-|10-07-2024|SSP Rajeshwar Singh|Nature is always assessing my action, As we sow ,so shall you reap|
+**10-07-2024**
+|Speaker's name|Description|
+|--------------|----------------|
+|Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
+|SSP Rajeshwar Singh|Nature is always assessing my action, As we sow ,so shall you reap|
 
 **Day 2**
 | Date|Speaker's name|Description|
