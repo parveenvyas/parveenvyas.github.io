@@ -8,24 +8,27 @@
 |SSP Rajeshwar Singh|Nature is always assessing my action, As we sow ,so shall you reap|
 
 **Day 2**
-| Date|Speaker's name|Description|
-|-----|--------------|----------------|
-|11-07-2024|Dr.Arvind dhingra|He talked about different types of memberships and different national and department level clubs|
-|11-07-2024| Dr. Parminder Singh|He gave us knowledge about college that College has 4 hostels,3canteens,Stationary,Dispensary,different Scholarship andmany more|
-|11-07-2024|Dr. H. S. Rai|He taled about about coding. Do coding for developing non-coding platform|
+**11-07-2024**
+|Speaker's name|Description|
+|--------------|----------------|
+|Dr.Arvind dhingra|He talked about different types of memberships and different national and department level clubs|
+| Dr. Parminder Singh|He gave us knowledge about college that College has 4 hostels,3canteens,Stationary,Dispensary,different Scholarship andmany more|
+|Dr. H. S. Rai|He taled about about coding. Do coding for developing non-coding platform|
 
-**Day 3*
+**Day 3**
+**12-07-2024**
 | Date|Speaker's name|Description|
-|-----|--------------|----------------|
-|12-07-2024|Peer Interaction Canva|How to make Flyers using Canva|
-|12-07-2024|Associate Prof. Neeraj kumar |Derivative|
+|--------------|----------------|
+|Peer Interaction Canva|How to make Flyers using Canva|
+|Prof. Neeraj kumar |Derivative|
 
 **Day 4**
-| Date|Speaker's name|Description|
-|-----|--------------|----------------|
-|15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
-|15-07-2024|Mr. Sony Goyal|He gave us lesson to  give your 100℅ efforts. He also relates the 4 years of Btech with LIFE form which is L-learn I-inquire F-future E-explore|
-|15-07-2024|Mr. Pancham jai singh gill|He talked about the non-verbal communication how to judge a person from his pose and motorsportclub SAE|
+**15-07-2024**
+|Speaker's name|Description|
+|--------------|----------------|
+|Dr. pyare lal garg |Dr. garg tell us about important things|
+|Mr. Sony Goyal|He gave us lesson to  give your 100℅ efforts. He also relates the 4 years of Btech with LIFE form which is L-learn I-inquire F-future E-explore|
+|Mr. Pancham jai singh gill|He talked about the non-verbal communication how to judge a person from his pose and motorsportclub SAE|
 
 **Day 5**
 | Date|Speaker's name|Description|
