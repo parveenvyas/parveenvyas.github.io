@@ -91,4 +91,7 @@
 
 | Date|Speaker's name|Description|
 |-----|--------------|----------------|
-|26-07-2024|Meditation counsellor Dr.kanwalpreet kaur bhatt| Mam told us the importance of Meditation in our life. she said that we can heel the 
+|26-07-2024|Meditation counsellor Dr.kanwalpreet kaur bhatt| Mam told us the importance of Meditation in our life. she said that we can heel the complex disease too with meditation. Then they showed us the video of process of meditation and then describe the video. 
+|26-07-2024|  |
+
+
