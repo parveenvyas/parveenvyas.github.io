@@ -73,7 +73,9 @@
 | Date|Speaker's name|Description|
 |-----|--------------|----------------|
 |24-07-2024| Mr. Gauravdeep Singh| Sir shares his own life experience, what efforts he made to achieve this height of success. In what trouble he had to go for He motivate us to don't lose your hope. 
+
 |24-07-2024| Er. Lakhveer Singh| Sir told us about the the swayam-Nptl portal where we can learn any type of course.The courses duration is 4weeks, 8weeks and 12weeks .In the course there will be Test after some days and final exam will be held on 
+
 |24-07-2024| Causmic club| Our seniors organised a program through causmic club. Then they told us about causmic club and share a Qr code with us to join the causmic club
 
 **Day 12**
