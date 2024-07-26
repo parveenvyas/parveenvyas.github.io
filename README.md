@@ -23,7 +23,7 @@
 | Date|Speaker's name|Description|
 |-----|--------------|----------------|
 |15-07-2024|Dr. pyare lal garg |Dr. garg tell us about important things|
-|15-07-2024|Mr. Sony Goyal|He gave us lesson to  give your 100℅ efforts. He also relates the 4 years of Btech with LIFE form which is L-learn |I-inquire|F-future|E-explore|
+|15-07-2024|Mr. Sony Goyal|He gave us lesson to  give your 100℅ efforts. He also relates the 4 years of Btech with LIFE form which is L-learn I-inquire F-future E-explore
 |15-07-2024|Mr. Pancham|He talked about the non-verbal communication how to judge a person from his pose and motorsportclub SAE
 
 **Day 5**
