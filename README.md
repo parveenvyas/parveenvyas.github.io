@@ -32,8 +32,10 @@ Activity Report of Induction program_20240722_131427_0000](https://github.com/us
 |19-07-2024|DR. INDERJIT SINGH DHANOA| Sir said about the Department Data science club, how to join the club
 |22-07-2024|Dr. Satbir Singh|He firstly said that he is student.They told us to take a page and then write your name fathers name mothers name and then mobile no. 
 |22-07-2024|Dr. Pushpinder singh| He said that identify your learning style because there are three types of learning style Surface, Strategic and deep learning. become deaf and dumb for negativity, always learn from nature, 
-|22-07-2024| Senior Diljeet singh|He shares his experience with us. Not to do mistakes what he do. 
+|22-07-2024| Senior Diljeet singh|He shares his experience with us. Not to do mistakes what he do.
+|22-07-2024| Dr. Sangeeta| Mam aware us about the climate change, increasing pollution day by day. 
 |23-07-2024| Prof.Rishi Kapoor| Sir taught us the UHV chapter introduction to value education, Harmony in family
 |23-07-2024| Prof. Manjot kaur| Mam 
 |24-07-2024| Mr. Gauravdeep Singh| Sir shares his own life experience, what efforts he made to achieve this height of success. In what trouble he had to go for He motivate us to don't lose your hope. 
-|24-07-2024| Er. Lakhveer Singh| 
+|24-07-2024| Er. Lakhveer Singh| Sir told us about the the swayam-Nptl portal where we can learn any type of course.The courses duration is 4weeks, 8weeks and 12weeks .In the course there will be Test after some days and final exam will be held on 
+|
