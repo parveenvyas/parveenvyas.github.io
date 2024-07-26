@@ -91,4 +91,4 @@
 
 | Date|Speaker's name|Description|
 |-----|--------------|----------------|
-|26-07-2024|Meditation counsellor Dr.kanwalpreet kaur bhatt| 
+|26-07-2024|Meditation counsellor Dr.kanwalpreet kaur bhatt| Mam told us the importance of Meditation in our life. she said that we can heel the 
