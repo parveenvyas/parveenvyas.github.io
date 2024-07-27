@@ -17,9 +17,9 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Dr.Arvind dhingra|He talked about different types of memberships and different national and department level clubs|
-| Dr. Parminder Singh|He gave us knowledge about college that College has 4 hostels,3canteens,Stationary,Dispensary,different Scholarship andmany more|
-|Dr. H. S. Rai|He taled about about coding. Do coding for developing non-coding platform|
+|Dr.Arvind dhingra|He told us that our heartbeat is the best music of world If a negative thought come in mind it required 17 positive thoughts to destroy it.After that hetalked about different types of memberships and different national and department level clubs|
+| Dr. Parminder Singh|He gave us knowledge about college that College has 4 hostels,3 canteens,Stationary,Dispensary,different Scholarship and many more|
+|Dr. H. S. Rai|He told about about coding. Do coding for developing non-coding platform|
 
 **Day 3**
 
@@ -36,7 +36,7 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Dr. pyare lal garg |Dr. garg tell us about important things|
+|Dr. pyare lal garg |Dr. garg told us that there is no person in the world who does not get failure. Therefore come in front and face the problem. 
 |Mr. Sony Goyal|He gave us lesson to  give your 100℅ efforts. He also relates the 4 years of Btech with LIFE form which is L-learn I-inquire F-future E-explore|
 |Mr. Pancham jai singh gill|He talked about the non-verbal communication how to judge a person from his pose and motorsportclub SAE|
 
