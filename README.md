@@ -111,7 +111,8 @@
 |Mr. Gauravdeep Singh| Sir shares his own life experience, what efforts he made to achieve this height of success. In what trouble he had to go for He motivate us to don't lose your hope|
 |Er. Lakhveer Singh| Sir told us about the the swayam-Nptl portal where we can learn any type of course.The courses duration is 4weeks, 8weeks and 12weeks .In the course there will be Test after some days and final exam will be held on |
 |Causmic club| Our seniors organised a program through causmic club. Then they told us about causmic club and share a Qr code with us to join the causmic club|
-![IMG_20240727_115730](https://github.com/user-attachments/assets/94e24710-11ad-45ec-9856-85650cbf1da7)
+
+![IMG_20240727_121941](https://github.com/user-attachments/assets/7ee8688f-40e4-4b6f-ad31-1597e52bbff4)
 **Day 12**
 
 **25-07-2024**
