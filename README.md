@@ -8,6 +8,7 @@
 |--------------|----------------|
 |Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
 |SSP Rajeshwar Singh|Nature is always assessing my action, As we sow ,so shall you reap|
+
 ![IMG_20240727_115548](https://github.com/user-attachments/assets/883f0958-23f1-4f2f-bfe2-6aacb9c1478d)
 
 **Day 2**
@@ -38,6 +39,8 @@
 |Dr. pyare lal garg |Dr. garg tell us about important things|
 |Mr. Sony Goyal|He gave us lesson to  give your 100℅ efforts. He also relates the 4 years of Btech with LIFE form which is L-learn I-inquire F-future E-explore|
 |Mr. Pancham jai singh gill|He talked about the non-verbal communication how to judge a person from his pose and motorsportclub SAE|
+
+![IMG_20240727_120018](https://github.com/user-attachments/assets/b870035d-beb3-4e97-8cb7-2575c04fa550)
 
 **Day 5**
 
@@ -108,7 +111,7 @@
 |Mr. Gauravdeep Singh| Sir shares his own life experience, what efforts he made to achieve this height of success. In what trouble he had to go for He motivate us to don't lose your hope|
 |Er. Lakhveer Singh| Sir told us about the the swayam-Nptl portal where we can learn any type of course.The courses duration is 4weeks, 8weeks and 12weeks .In the course there will be Test after some days and final exam will be held on |
 |Causmic club| Our seniors organised a program through causmic club. Then they told us about causmic club and share a Qr code with us to join the causmic club|
-
+![IMG_20240727_115730](https://github.com/user-attachments/assets/94e24710-11ad-45ec-9856-85650cbf1da7)
 **Day 12**
 
 **25-07-2024**
@@ -126,6 +129,7 @@
 |--------------|----------------|
 |Meditation counsellor Dr.kanwalpreet kaur bhatt| Mam told us the importance of Meditation in our life. she said that we can heel the complex disease too with meditation. Then they showed us the video of process of meditation and then describe the video.|
 |Cultural event |Then there was a cultural event in which different students of first year participates in  Singing and dancing event.|
+
 ![IMG_20240727_115436](https://github.com/user-attachments/assets/2209c553-a5d8-4814-913f-059536f1a183)
 
 
