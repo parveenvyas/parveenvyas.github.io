@@ -2,6 +2,8 @@
 
 **Day 1**
 **10-07-2024**
+
+
 |Speaker's name|Description|
 |--------------|----------------|
 |Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
