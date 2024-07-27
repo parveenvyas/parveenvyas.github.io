@@ -7,7 +7,7 @@
 |Speaker's name|Description|
 |--------------|----------------|
 |Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
-|SSP Rajeshwar Singh|Nature is always assessing my action, As we sow ,so shall you reap|
+|SSP Rajeshwar Singh|Nature is always assessing our action, As you sow ,so shall you reap|
 
 ![IMG_20240727_115548](https://github.com/user-attachments/assets/883f0958-23f1-4f2f-bfe2-6aacb9c1478d)
 
@@ -49,7 +49,7 @@
 |Speaker's name|Description|
 |--------------|----------------|
 |Prof.Nisha masson|English quiz about Vocabulary, |
-|         |English Quiz about Jumble words,personality ,and many more|
+|Prof.Jasmine Kaur|English Quiz about Jumble words,personality ,and many more|
 
 **Day 6**
 
@@ -66,10 +66,12 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Prof. Nisha Masson|Understanding in Harmony in Human being|
-|Senior 2nd year student|They told us about the college website|
+|Prof. Nisha Masson|Mam taught us the 2nd chapter of UHV which is Understanding Harmony in Human being|
+|Senior 2nd year student|They told us about the college website and said that focus on your study and enjoy as well |
 |Dr. Harwinder Singh|Sir give Introduction about NCC, Benefits of Joining NCC How to Join NCC and how many vacancies are there in NCC|
 |Er. Jaswir Singh Grewal|Sir give the brief introduction of NSS,Mission, moto of NSS and how it is useful for the students  and promote us to join NSS|
+
+![IMG_20240727_162404](https://github.com/user-attachments/assets/7ef1f38c-a075-4a53-a527-1de8e2ffc9b9)
 
 **Day 8**
 
@@ -83,15 +85,18 @@
 |Dr. Sita Rani|Mam gave us detailed description of Department club CSI(Computer Society of India and many more|
 |DR. INDERJIT SINGH DHANOA| Sir said about the Department Data science club, how to join the club|
 
+![IMG_20240727_163026](https://github.com/user-attachments/assets/ef304ad5-e101-42aa-b69f-5c3b54b8ee88)
+
 **Day 9**
 
 **22-07-2024**
+
 |Speaker's name|Description|
 |--------------|----------------|
-|Dr. Satbir Singh|He firstly said that he is student.They told us to take a page and then write your name fathers name mothers name and then mobile no|
+|Dr. Satbir Singh|He firstly said that he is student.They told us to take a page and then write your personal information like name, fathers name mothers name, mobile no, +2marks and write your goal|
 |Dr. Pushpinder singh| He said that identify your learning style because there are three types of learning style Surface, Strategic and deep learning. become deaf and dumb for negativity, always learn from nature| 
-| Senior Diljeet singh|He shares his experience with us. Not to do mistakes what he do.|
-| Dr. Sangeeta kapoor| Mam aware us about the climate change, increasing pollution day by day.|
+|Senior Diljeet singh|He shares his experience with us. Not to do mistakes what he do|
+|Dr. Sangeeta kapoor| Mam aware us about the climate change, increasing pollution day by day|
 
 **Day 10**
 
@@ -99,8 +104,8 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-| Prof.Rishi Kapoor| Sir taught us the UHV chapter introduction to value education, Harmony in family|
-| Prof. Manjot kaur| Mam |
+| Prof.Rishi Kapoor| Sir give us brief introduction of the UHV chapter introduction to value education, Harmony in family|
+| Prof. Manjot kaur| Mam also give us the brief introduction of all 3 chapters of UHV-Introduction to value education,Understanding harmony in human being and understanding harmony in family|
 
 **Day 11**
 
@@ -120,7 +125,7 @@
 |Speaker's name|Description|
 |--------------|----------------|
 |Prof. Rajbir kaur| Mam taught us the math chapter integration|
-|Prof. Mandeep kaur|
+|Prof. Mandeep kaur|Mam taught us the basic of chemistry that we already read in the +1 and +2.Through this session we revised the different topics of chemistry. 
 
 **Day 13**
 
