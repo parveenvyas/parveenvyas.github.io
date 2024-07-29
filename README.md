@@ -6,7 +6,7 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Er.Jiwandeep Singh|Grab opportunity, Identify your Passion, see long content|
+|Er.Jiwandeep Singh|Sir said that firstly find your why then how and what. He also told us to Grab opportunity, Identify your Passion and see long content on YouTube to increase your concentration rather than short video |
 |SSP Rajeshwar Singh|Nature is always assessing our action, As you sow ,so shall you reap|
 
 ![IMG_20240727_115548](https://github.com/user-attachments/assets/883f0958-23f1-4f2f-bfe2-6aacb9c1478d)
@@ -48,7 +48,7 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Prof.Nisha masson|English quiz about Vocabulary, |
+|Prof.Nisha masson|English quiz about Vocabulary,idioms |
 |Prof.Jasmine Kaur|English Quiz about Jumble words,personality ,and many more|
 
 **Day 6**
@@ -93,7 +93,7 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Dr. Satbir Singh|He firstly said that he is student.They told us to take a page and then write your personal information like name, fathers name mothers name, mobile no, +2marks and write your goal|
+|Dr. S.B. Singh|He firstly said that he is student of this institution.They told us to take a page and then write your personal information like name, fathers name mothers name, mobile no, +2marks and write your goal which you want to achieve.|
 |Dr. Pushpinder singh| He said that identify your learning style because there are three types of learning style Surface, Strategic and deep learning. become deaf and dumb for negativity, always learn from nature| 
 |Senior Diljeet singh|He shares his experience with us. Not to do mistakes what he do|
 |Dr. Sangeeta kapoor| Mam aware us about the climate change, increasing pollution day by day|
