@@ -57,8 +57,8 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Prof. Sukhminder Singh| Maths Integration|
-|Prof.Nisha Masson|Introduction to Value Education|
+|Prof. Sukhminder Singh|Sir made us revise the  Integration. They give us problems to solve|
+|Prof.Nisha Masson|Mam taught us the second chapter of UHV-Introduction to Value Education|
 
 **Day 7**
 
