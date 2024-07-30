@@ -6,6 +6,8 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
+|Dr. Sehijpal Singh|Upon arrival, we were greeted with a warm welcome to the picturesque Guru Nanak Dev Engineering College (GNDEC) campus, surrounded by breathtaking scenery. The chief guest was also accorded a hearty reception. As we ventured further, we discovered the college’s dynamic and motivating atmosphere, teeming with energy and innovation.
+|NSET Dr.Inderpal Singh|The director of NSET emphasised the Significance of GNDEC, The Guru Nanak Dev Engineering College was established in 1953 (as a polytechnic) and 1956 (as a full-fledged college) to pay tribute to Guru Nanak Dev Ji's birthplace, Nankana Sahib. With a mission to combat economic backwardness through technology, the college reserves 70% of its seats for rural students. Over five decades, it has produced nearly 13,000 engineers who contribute to their fields. The college remains committed to inclusive growth, social justice, and nurturing talent, embodying Guru Nanak Dev Ji's teachings.
 |Er.Jiwandeep Singh|Sir said that firstly find your why then how and what. He also told us to Grab opportunity, Identify your Passion and see long content on YouTube to increase your concentration rather than short video |
 |SSP Rajeshwar Singh|Nature is always assessing our action, As you sow ,so shall you reap|
 
@@ -19,7 +21,7 @@
 |--------------|----------------|
 |Dr.Arvind dhingra|He told us that our heartbeat is the best music of world If a negative thought come in mind it required 17 positive thoughts to destroy it.After that hetalked about different types of memberships and different national and department level clubs|
 | Dr. Parminder Singh|He gave us knowledge about college that College has 4 hostels,3 canteens,Stationary,Dispensary,different Scholarship and many more|
-|Dr. H. S. Rai|He told about about coding. Do coding for developing non-coding platform|
+|Dr. H. S. Rai|  He told about about coding. Do coding for developing non-coding platform|
 
 **Day 3**
 
