@@ -21,7 +21,7 @@
 |--------------|----------------|
 |Dr.Arvind dhingra|He told us that our heartbeat is the best music of world If a negative thought come in mind it required 17 positive thoughts to destroy it.After that hetalked about different types of memberships and different national and department level clubs|
 | Dr. Parminder Singh|He gave us knowledge about college that College has 4 hostels,3 canteens,Stationary,Dispensary,different Scholarship and many more|
-|Dr. H. S. Rai|  He told about about coding. Do coding for developing non-coding platform|
+|Dr. H. S. Rai|He recounted his motivating experience with the esteemed Google Summer of Code, where he not only mentored but also worked alongside his students, emphasizing the value of collaboration and learning. Additionally, he invited coding enthusiasts to become part of the CodeGNE community, recommending that we set up a GitHub profile using markdown and begin blogging to share our ideas and experiences, promoting a culture of innovation and knowledge exchange.|
 
 **Day 3**
 
@@ -50,8 +50,8 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Prof.Nisha masson|English quiz about Vocabulary,idioms |
-|Prof.Jasmine Kaur|English Quiz about Jumble words,personality ,and many more|
+|Prof.Nisha masson|Mam took the English quiz about Vocabulary,idioms,Naming Personality and many more|
+|Prof.Jasmine Kaur|Mam asked us to make the team then he took the quiz aboutus Jumble words,personality,Sports and many more|
 
 **Day 6**
 
@@ -81,11 +81,9 @@
 
 |Speaker's name|Description|
 |--------------|----------------|
-|Er. kanwardeep kalra|She gave us knowledge about importance of essential Soft skills with hard skills for the corporate world|
-|Dr.Jaswinder Singh|He gave us knowledge about mathematics and science. He said that nothing is possible without mathematics|
-|Dr.Manpreet kaur Mand|Mam tell us about Department labs, faculty, Clubs, Examination structure|
-|Dr. Sita Rani|Mam gave us detailed description of Department club CSI(Computer Society of India and many more|
-|DR. INDERJIT SINGH DHANOA| Sir said about the Department Data science club, how to join the club|
+|Er. kanwardeep kalra|She gave us knowledge about importance of essential Soft skills with hard skills for the corporate world.Only hard skills doesn't matter. |
+|Prof.Dr.Jaswinder Singh|He was really a very interesting and funny.He gave us knowledge about mathematics and science. He said that nothing is possible without mathematics.He showed usa experiments rain water alarm by this he show that our body is also a conductor.He made us count the bones of our body.|
+|Departmental Visit|We visited the CSE department where we had given the information about department, faculty, Clubs associated with Department and some bit about the curriculum. 
 
 ![IMG_20240727_163026](https://github.com/user-attachments/assets/ef304ad5-e101-42aa-b69f-5c3b54b8ee88)
 
