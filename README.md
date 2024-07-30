@@ -1,4 +1,4 @@
-![Activity Report of Induction program_20240722_131427_0000](https://github.com/user-attachments/assets/ee405517-76d9-4484-a608-c04a9cabf569)
+![Activity Report of Induction program_20240730_190918_0000](https://github.com/user-attachments/assets/9b9cff32-32f6-4a92-b479-d3ef1c5a8dc6)
 
 **Day 1**
 
